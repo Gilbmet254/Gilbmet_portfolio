@@ -285,8 +285,8 @@ section {
 
 .about-pic {
   border-radius: 5rem;
-  width: 600%;
-  height: 50vh;
+  width: 300%;
+  height: vh;
   display: flex;
   justify-content: center;
   align-items: center;
